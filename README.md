@@ -1,6 +1,6 @@
 # 🎓 Hii-five College Companion App
-
-Welcome to College Companion App, a versatile mobile application built with React Native, Node.js, MongoDB, Express.js, JWT authentication, AsyncStorage, and deployed on Vercel server. This comprehensive platform is designed to streamline the daily activities of college students, offering a plethora of features to enhance their academic and social experience.
+#
+Welcome to College Companion App, a versatile mobile application built with React Native, Node.js, MongoDB, Express.js, JWT authentication, AsyncStorage, and  deployed on Vercel server. This comprehensive platform is designed to streamline the daily activities of college students, offering a plethora of features to enhance their academic and social experience.
 
 ## 🚀 Features
 
