@@ -5,7 +5,7 @@ Welcome to College Companion App, a versatile mobile application built with Reac
 ## 🚀 Features
 
 ### 🍽️ Mess Menu
-Stay updated with the daily mess menu, ensuring you never miss out on your favorite meals.
+Stay  updated with the daily mess menu, ensuring you never miss out on your favorite meals.
 
 ### 💬 Chat
 Engage in one-on-one conversations with your peers, facilitating seamless communication and collaboration.
